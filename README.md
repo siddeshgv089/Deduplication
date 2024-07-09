@@ -27,9 +27,30 @@ Youtube Links :
 21. https://www.youtube.com/watch?v=ckpPAngYm6o
 22. https://www.youtube.com/watch?v=iEyn39oo6DU
 23. https://www.youtube.com/watch?v=DsRR2Xre0a8
+24. https://www.youtube.com/watch?v=3N-WtkuAkS4
+25. https://www.youtube.com/watch?v=b1QCYUlh3T0
+26. https://www.youtube.com/watch?v=6H8scMR4seQ
+27. https://www.youtube.com/watch?v=FPkeIgh_i7Q
+28. https://www.youtube.com/watch?v=MV4VCfGbXr4
+29. https://av.tib.eu/media/44291
+30. https://www.youtube.com/watch?v=w9-EiKcpS-0&t=294s ***
 
 Papers :
   http://www.cs.umd.edu/projects/shrug/pdf/29-Mar-2001.pdf
+  https://cdn.allbound.com/iq-ab/2020/02/Data-DeDuplication-For-Dummies-eBook-ST01793A.pdf
+  https://www.purestorage.com/docs.html?item=/type/pdf/subtype/doc/path/content/dam/purestorage/pdf/Case%20Studies/NIF_Pure_Storage_Customer_Case_Study.pdf
+  
 
 GitHub links :
+https://github.com/search?q=storage+deduplication+language%3AC&type=repositories&l=C
+https://learn.microsoft.com/en-us/previous-versions/windows/desktop/dedup/data-deduplication-api-portal
+https://sist.sathyabama.ac.in/sist_naac/documents/1.3.4/1822-b.e-cse-batchno-255.pdf
+https://medium.com/@roopa.kushtagi/data-deduplication-strategies-2256f643066e
+https://ceph.com/assets/pdfs/ICDCS_2018_mwoh.pdf
+https://www.oracle.com/data-deduplication/
+https://journals.sagepub.com/doi/10.1155/2014/561340
+https://www.am-utils.org/docs/sonam-rpe/dmdedup-sonam-rpe.pdf
+https://www.fortinet.com/resources/cyberglossary/data-deduplication
+
+
  
